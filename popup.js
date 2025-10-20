@@ -9,8 +9,9 @@ window.addEventListener("load", function () {
     setTimeout(() => {
         
         window.close();
-    }, 10);
+    }, 1);
 });
+
 
 
 

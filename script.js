@@ -1,4 +1,5 @@
 ﻿
 document.getElementById("openPopupBtn").addEventListener("click", function () {
-    window.open("popup.html", "_blank");
+    window.open("popup.html", "_blank",300,300);
 });
+
